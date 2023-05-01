@@ -9,6 +9,7 @@
 9. There is an error as the "let" keyword in the loop makes our i variable out of scope
 10. This line prints the length of the entered array with no errors
 11. This function returns an array of discounted prices given the original prices as an array and the discount as a decimal, or 50,100,150 in this case.
+
 12A. student.name
 
 12B. student['Grad Year']
